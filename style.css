@@ -1,0 +1,12 @@
+* {
+    background-color: rgba(141, 98, 98, 0.3);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.main-heading {
+    text-align: center;
+}
